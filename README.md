@@ -9,8 +9,8 @@ Curso **Git e Github Essencial para o Desenvolvedor** realizado pela **Geek Univ
 
 ## Meta
 
-Erisan Junior - **erisantadeu@gmail.com** 
+Meu e-mail - **ErisanTadeu@gmail.com** 
 
-[Linkedin](https://www.linkedin.com/in/erisan-tadeu-rosa-junior/)
+Meu [Linkedin](https://www.linkedin.com/in/erisan-tadeu-rosa-junior/)
 
 [https://github.com/ErisanJunior/](https://github.com/ErisanJunior)
